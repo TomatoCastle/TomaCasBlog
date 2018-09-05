@@ -98,6 +98,6 @@
 
 ## 他の方の参加記
 他の方の参加記のほうが詳しく書かれていますので、そちらも是非御覧ください
-- [しゅういちさん](ups.hatenablog.jp/entry/2018/09/03/SECCON_Beginners_広島行ってきた)
-- [はすみさん](mwc922-hsm.hatenablog.com/entry/2018/09/01/234729)
+- [しゅういちさん](http://ups.hatenablog.jp/entry/2018/09/03/SECCON_Beginners_広島行ってきた)
+- [はすみさん](http://mwc922-hsm.hatenablog.com/entry/2018/09/01/234729)
 - [Kaitoさん](https://github.com/tMasaaa/ctf/blob/master/seccon_beginners_hiroshima/blog/blog.md)
